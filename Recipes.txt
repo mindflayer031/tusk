@@ -9,5 +9,8 @@ this is pasta
 
 this is chicken 
 
+this is bean
+this is pizza
+
 
 thank you
